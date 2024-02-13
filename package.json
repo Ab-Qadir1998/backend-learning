@@ -1,0 +1,23 @@
+{
+  "name": "04",
+  "version": "1.0.0",
+  "description": "learning backend with chai aur code",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "express",
+    "mongoose",
+    "prettier"
+  ],
+  "author": "AQ",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.3",
+    "prettier": "^3.2.5"
+  }
+}
